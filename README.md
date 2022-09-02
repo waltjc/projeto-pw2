@@ -3,5 +3,6 @@
 
 ## ⚙ Padrões e Utilitários
 - MVC
+- DTO
 - Swagger
 - PostgreSQL

@@ -1,4 +1,5 @@
-# Projeto de Lava Jato para a cadeira de Programação Web II. Tendo como Docente o professor Francisco Junio.
+## Projeto de Lava Jato para a cadeira de Programação Web II.
+👨‍🏫 Docente: **Francisco Junio.**<br>👨‍🎓 Discentes: **Daniel Antônio, Vinícius Duperron e Walter José.**
 
 ## ⚙ Padrões e Utilitários
 - MVC

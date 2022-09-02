@@ -52,4 +52,3 @@ public class ClienteResource {
 		return new ResponseEntity<>(editCliente, HttpStatus.CREATED);
 	}
 }
-
